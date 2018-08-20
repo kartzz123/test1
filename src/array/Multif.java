@@ -14,7 +14,7 @@ public class Multif {
 		driver.get("http://newtours.demoaut.com/");
 		driver.manage().deleteAllCookies();
 		driver.manage().window().maximize();
-		driver.findElement(By.className("mousename")).click();
+		//driver.findElement(By.className("mousename")).click();
 		
 		
 		
