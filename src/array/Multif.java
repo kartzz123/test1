@@ -15,7 +15,7 @@ public class Multif {
 		driver.manage().deleteAllCookies();
 		driver.manage().window().maximize();
 		//driver.findElement(By.className("mousename")).click();
-		driver.close()
+		driver.close();
 			
 			
 		
